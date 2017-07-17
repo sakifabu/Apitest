@@ -1,0 +1,9 @@
+c:\users\sakif\documents\visual studio 2017\Projects\CityInfo2\CityInfoApi\bin\Debug\netcoreapp1.1\CityInfoApi.deps.json
+c:\users\sakif\documents\visual studio 2017\Projects\CityInfo2\CityInfoApi\bin\Debug\netcoreapp1.1\CityInfoApi.runtimeconfig.json
+c:\users\sakif\documents\visual studio 2017\Projects\CityInfo2\CityInfoApi\bin\Debug\netcoreapp1.1\CityInfoApi.runtimeconfig.dev.json
+c:\users\sakif\documents\visual studio 2017\Projects\CityInfo2\CityInfoApi\bin\Debug\netcoreapp1.1\CityInfoApi.dll
+c:\users\sakif\documents\visual studio 2017\Projects\CityInfo2\CityInfoApi\obj\Debug\netcoreapp1.1\CityInfoApi.csprojResolveAssemblyReference.cache
+c:\users\sakif\documents\visual studio 2017\Projects\CityInfo2\CityInfoApi\obj\Debug\netcoreapp1.1\CityInfoApi.AssemblyInfo.cs
+c:\users\sakif\documents\visual studio 2017\Projects\CityInfo2\CityInfoApi\bin\Debug\netcoreapp1.1\CityInfoApi.pdb
+c:\users\sakif\documents\visual studio 2017\Projects\CityInfo2\CityInfoApi\obj\Debug\netcoreapp1.1\CityInfoApi.dll
+c:\users\sakif\documents\visual studio 2017\Projects\CityInfo2\CityInfoApi\obj\Debug\netcoreapp1.1\CityInfoApi.pdb
